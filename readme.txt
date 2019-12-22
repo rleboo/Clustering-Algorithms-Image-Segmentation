@@ -1,16 +1,3 @@
-Raymond Leboo
-
-Files Included:
-kmeans.py
-seg.py
-Earth.gif
-rainbow.gif
-venus_fly_trap.gif
-Earth (folder of images)
-rainbow (folder of images)
-venus (folder of images)
-
-
 This project implements different clustering algorithms to perform image segmentation. It uses the partition algorithm of K-means and the agglomerative algorithms of UPGMA and NJ to carry out image segmentation (seperately). The kmeans.py code was written by Stephen Marsland, 2008, 2014. 
 
 --seg.py--
